@@ -1,4 +1,4 @@
-# P_DA_01_preprocessing
+# Analyzing borrowers’ risk of defaulting
 The project from the Data Preprocessing sprint of the Practicum DA/DS course.
 
 ## Description
